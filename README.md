@@ -1,4 +1,4 @@
-# Sistema-de-alocacao-de-carros-CRUD_MONGODB
+# Sistema de alocação de carros CRUD_MONGODB
 Esse sistema de alocação de carros é composto por um conjunto de coleções(collections) que representam pedidos de vendas, contendo coleções como: clientes, categoria, alocações e carro.
 O sistema exige que as coleções existam, então basta executar o script Python a seguir para criação das coleções e preenchimento de dados de exemplos:
   
