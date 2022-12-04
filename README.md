@@ -33,7 +33,5 @@ Para executar o sistema basta executar o script Python a seguir:
 
 ✧principal.py: Script responsável por ser a interface entre o usuário e os módulos de acesso ao Banco de Dados. Deve ser executado após a criação das tabelas.
 
-✦ sql-
-
 # Bibliotecas Utilizada
 ✦requirements.txt: *pip install -r requirements.txt*
